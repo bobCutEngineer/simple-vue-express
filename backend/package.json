@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
